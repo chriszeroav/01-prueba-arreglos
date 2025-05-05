@@ -1,10 +1,7 @@
 export function removeDuplicates(arr: number[]): number[] {
   // TODO: Retornar un nuevo arreglo sin elementos duplicados
-  console.log("Hola");
   return [];
 }
-
-removeDuplicates([]);
 
 export function filterEven(arr: number[]): number[] {
   // TODO: Retornar solo los números pares del arreglo
